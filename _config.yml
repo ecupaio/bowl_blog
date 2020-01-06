@@ -28,7 +28,11 @@ defaults:
 - scope:
     path: ''
   values:
-    layout: index
+    layout: default
+- scope:
+    type: 'posts'
+  values:
+    permalink: /:title/  
 # collections:
 #   collection-name:
 #     output: true

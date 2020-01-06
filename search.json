@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "base" : "{{ post.base | join: ', ' }}",
+      "protein" : "{{ post.protein | join: ', ' }}",
+      "vegetables" : "{{ post.vegetables | join: ', ' }}",
+      "equipment"     : "{{ post.equipment | join: ', ' }}",
+      "url"      : "{{ post.url }}",
+      "date"     : "{{ post.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
