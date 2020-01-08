@@ -1,0 +1,25 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: list
+  name: equipment
+  label: equipment
+- type: list
+  name: protein
+  label: protein
+- type: text
+  name: base
+  label: base
+- type: list
+  name: vegetables
+  label: vegetables
