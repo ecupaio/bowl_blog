@@ -2,21 +2,7 @@
 layout: post
 title: Roasted Pork Loin and Spring Vegetables
 image: https://www.seriouseats.com/images/2017/04/20170419-spring-salad-crispy-egg-21.jpg
-equipment:
-- deep baking dish
-- cast-iron pan
-protein:
-- pork loin
-base:
-vegetables:
-- potatoes
-- cherry tomatoes
-- green beans
-- onions
-- garlic cloves
-- peppers
----
-## Ingredients
+ingredients:
 - 1 pork loin pack or center cut pork chops
 - 2 cases of cherry or grape tomatoes
 - 1 bag of fresh green beans
@@ -24,7 +10,7 @@ vegetables:
 - 1 bulb of garlic
 - 1 bag of snacking peppers or three bell peppers
 - 1 bag of small roasting potatoes (red, Yukon gold, purple potatoes)
-
+---
 ## Instructions
 
 Rub your pork loin in oil, then apply a spice rub of paprika, lemon pepper, oregano, and salt.
