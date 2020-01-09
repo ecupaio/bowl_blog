@@ -15,8 +15,8 @@ fields:
   name: ingredients
   label: ingredients
 - type: textarea
-  name: instructions
-  label: instructions
+  name: notes
+  label: notes
   config:
     wysiwyg: true
     schema:
