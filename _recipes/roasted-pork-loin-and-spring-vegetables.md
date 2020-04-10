@@ -2,6 +2,10 @@
 layout: post
 title: Roasted Pork Loin and Spring Vegetables
 image: https://www.seriouseats.com/images/2017/04/20170419-spring-salad-crispy-egg-21.jpg
+description: A hearty bowl with a base of potatoes and lots of flavor.
+vegetarian: false
+vegan: false
+effort: 3
 ingredients:
 - 1 pork loin pack or center cut pork chops
 - 2 cases of cherry or grape tomatoes
@@ -25,8 +29,8 @@ notes: |-
 
   Roasting the vegetables with the potatoes allows the potatoes to suck up some of the excess juices of the tomatoes and makes for some truly delicious papas.
 ---
+Pre-heat your oven to 425 degrees.
 Rub your pork loin in oil, then apply a spice rub of paprika, lemon pepper, oregano, and salt.
-Pre-heat your oven to 425 degrees
 Wash your potatoes and chop them in half so they cook quicker.
 Coat a deep baking dish with olive oil and place your potatoes. You should have room left over to add the other vegetables later on.
 Season potatoes with rosemary, thyme, salt, and pepper.

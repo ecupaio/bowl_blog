@@ -2,13 +2,12 @@
 layout: null
 ---
 [
-  {% for post in site.posts %}
+  {% for post in site.recipes %}
     {
       "title"    : "{{ post.title | escape }}",
-      "base" : "{{ post.base | join: ', ' }}",
-      "protein" : "{{ post.protein | join: ', ' }}",
-      "vegetables" : "{{ post.vegetables | join: ', ' }}",
-      "equipment"     : "{{ post.equipment | join: ', ' }}",
+      "ingredients" : "{{ post.ingredients }}",
+      "instructions": "{{ post.content }}",
+      "notes": "{{ post.notes }}",
       "url"      : "{{ post.url }}",
       "date"     : "{{ post.date }}"
     } {% unless forloop.last %},{% endunless %}

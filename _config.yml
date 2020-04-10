@@ -21,9 +21,6 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
-collections:
-  terms:
-    output: true
 defaults:
 - scope:
     path: ''
@@ -32,7 +29,7 @@ defaults:
 - scope:
     type: 'posts'
   values:
-    permalink: /:title/  
-# collections:
-#   collection-name:
-#     output: true
+    permalink: /:title/
+collections:
+  recipes:
+    output: true

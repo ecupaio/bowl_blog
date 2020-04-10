@@ -40,7 +40,7 @@
           @include transition(height);
         }
       }
-      .post-categories {
+      .post-info {
         background-color: $white;
         font-weight: 400;
         padding-top: 3rem;
@@ -64,7 +64,7 @@
         .post-image {
 
         }
-        .post-categories {
+        .post-info {
           @include transform(translateY(0));
           transition-delay: 0;
         }
