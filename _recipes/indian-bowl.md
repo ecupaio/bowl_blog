@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Chana Masala and Kale Saag Aloo
-permalink: /
 image:
 description: An Indian(ish) bowl that's incredibly filling and bursting with flavor.
 vegetarian: true
@@ -50,7 +49,7 @@ components:
 bowl: |-
   Add a layer of rice to the bottom of the bowl then add an even ratio of chana masala (red stuff) and saag aloo (green stuff).
 
-  Heat in the microwave for 2 minutes and you're set. 
+  Heat in the microwave for 2 minutes and you're set.
 
 notes: |-
   This is the most filling bowl I've made yet because of the sweet potatoes and chickpeas. Chickpeas are an awesome meat alternative since they're cheap and versatile and sweet potatoes are delicious, nutritious, and are a good canvass to work with serious spice.  

@@ -5,6 +5,7 @@ image: https://www.seriouseats.com/images/2017/04/20170419-spring-salad-crispy-e
 description: A hearty bowl with a base of potatoes and lots of flavor.
 vegetarian: false
 vegan: false
+published: false
 effort: 3
 ingredients:
 - 1 pork loin pack or center cut pork chops
