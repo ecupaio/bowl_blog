@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Chana Masala and Kale Saag Aloo
 image:
 description: An Indian(ish) bowl that's incredibly filling and bursting with flavor.
@@ -50,17 +49,15 @@ bowl: |-
   Add a layer of rice to the bottom of the bowl then add an even ratio of chana masala (red stuff) and saag aloo (green stuff).
 
   Heat in the microwave for 2 minutes and you're set.
-
-notes: |-
-  This is the most filling bowl I've made yet because of the sweet potatoes and chickpeas. Chickpeas are an awesome meat alternative since they're cheap and versatile and sweet potatoes are delicious, nutritious, and are a good canvass to work with serious spice.  
-
-  Fresh ginger makes the difference. You can get the powdered stuff, but fresh is great and you can put it in the freezer when you're done with it.
-
-  Blooming your spices really adds to the flavor and makes your house smell...well, awesome for me because I love the scent of aromatic spices used in Indian cooking.
-
-  Roasting the sweet potatoes really brings the sweet out in them, but you can always boil them if you hate flavor.
-
-  I know this is not authentic preparation or ingredients for proper Indian cuisine but I've adapted the legit recipes to make preparation a bit simpler without sacrificing too much quality. I recognized some ingredients are more difficult to source (whole cumin seeds, mustard greens, etc) so I went with the simplest possible way to make this.
-
-  My wife made naan to pair with this meal and I highly suggest picking up some naan or making your own to sop up all the sauce in the bottom of the bowl.
 ---
+This is the most filling bowl I've made yet because of the sweet potatoes and chickpeas. Chickpeas are an awesome meat alternative since they're cheap and versatile and sweet potatoes are delicious, nutritious, and are a good canvass to work with serious spice.  
+
+Fresh ginger makes the difference. You can get the powdered stuff, but fresh is great and you can put it in the freezer when you're done with it.
+
+Blooming your spices really adds to the flavor and makes your house smell...well, awesome for me because I love the scent of aromatic spices used in Indian cooking.
+
+Roasting the sweet potatoes really brings the sweet out in them, but you can always boil them if you hate flavor.
+
+I know this is not authentic preparation or ingredients for proper Indian cuisine but I've adapted the legit recipes to make preparation a bit simpler without sacrificing too much quality. I recognized some ingredients are more difficult to source (whole cumin seeds, mustard greens, etc) so I went with the simplest possible way to make this.
+
+My wife made naan to pair with this meal and I highly suggest picking up some naan or making your own to sop up all the sauce in the bottom of the bowl.

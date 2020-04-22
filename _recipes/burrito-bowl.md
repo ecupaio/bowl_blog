@@ -64,19 +64,18 @@ bowl:
 
   Heat in the microwave for 2 minutes
 
-  Garnish with a squeeze of lime and some sour cream and enjoy with a tortilla if you please.
-notes: |-
-  I get most of my ingredients for this in the international aisle, especially the spices. Badia brand spices are much cheaper and they have very good spices like actual jalapeño powder instead of the red dust McCormick passes off as chili powder.
-
-  Meat is optional in this meal since the beans will provide the protein and the sweet potatoes will keep you full.
-
-  You can use dried beans but they will take a very long time to complete if you don't have an instant pot.
-
-  Using a wok for the peppers and onions works really great, especially when you're dealing with a large quantity.
-
-  You can do plain white rice instead of the Spanish rice. It's less works
-
-  The tajin seasoning and mojo marinade can be made at home. For the seasoning, just use chili power, salt, and fresh lime juice. For the marinade, follow [this recipe](https://www.allrecipes.com/recipe/75249/mojo-grilling-marinade/)
-
-  Not all salsas are the same. Herdez is my favorite brand, most American brands are just Ragu with some jalapeños. The only caveat is that it does not keep as well but I go through the jar in a week with this bowl. Also it is a legit Mexican brand, so the spice is very real. Hot is actually HOT.
+  Garnish with a squeeze of lime and some sour cream and enjoy with a tortilla if you please.  
 ---
+I get most of my ingredients for this in the international aisle, especially the spices. Badia brand spices are much cheaper and they have very good spices like actual jalapeño powder instead of the red dust McCormick passes off as chili powder.
+
+Meat is optional in this meal since the beans will provide the protein and the sweet potatoes will keep you full.
+
+You can use dried beans but they will take a very long time to complete if you don't have an instant pot.
+
+Using a wok for the peppers and onions works really great, especially when you're dealing with a large quantity.
+
+You can do plain white rice instead of the Spanish rice. It's less works
+
+The tajin seasoning and mojo marinade can be made at home. For the seasoning, just use chili power, salt, and fresh lime juice. For the marinade, follow [this recipe](https://www.allrecipes.com/recipe/75249/mojo-grilling-marinade/)
+
+Not all salsas are the same. Herdez is my favorite brand, most American brands are just Ragu with some jalapeños. The only caveat is that it does not keep as well but I go through the jar in a week with this bowl. Also it is a legit Mexican brand, so the spice is very real. Hot is actually HOT.

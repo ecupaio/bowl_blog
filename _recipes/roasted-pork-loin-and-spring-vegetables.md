@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roasted Pork Loin and Spring Vegetables
 image: https://www.seriouseats.com/images/2017/04/20170419-spring-salad-crispy-egg-21.jpg
 description: A hearty bowl with a base of potatoes and lots of flavor.

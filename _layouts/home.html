@@ -15,24 +15,10 @@ layout: default
     </section>
     <section id="posts">
       <div class="pure-g">
-        {% for post in site.posts %}
+        {% for recipe in site.recipes %}
         <div class="pure-u-1 pure-u-md-1-3 post-col">
-          <a class="post-link" href="{{ post.url }}">
-            <div class="post-image">
-              <img data-src="{{ post.image }}" src=""/>
-            </div>
-
-            <div class="post-title">
-              {{ post.title }}
-            </div>
-            <div class="post-info">
-              <div class="post-description">
-                {{ post.description }}
-              </div>
-              <div class="post-effort">
-
-              </div>
-            </div>
+          <a class="post-link" href="{{ recipe.url }}">
+            
           </a>
         </div>
         {% endfor %}

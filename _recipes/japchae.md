@@ -66,20 +66,19 @@ bowl: |-
   Mix all the ingredients together in a bowl by hand so everything gets distributed evenly, then dress with any remaining sauce.
 
   Serve along side kimchi or put it on top and run the microwave for 2 minutes.
-notes: |-
- Authentic Japchae calls for glass noodles that are made from sweet potato starch are ideal but, unless you have an Asian grocer, they are not going to be in your international aisle. If you cant find rice noodles, plain rice works too.
-
- Use a high-smoke point oil for this dish like grape-seed or canola oil. You could use the sesame oil, but it's pretty expensive at my grocery and I mainly use it as a flavoring oil unless you have an Asian grocer that have one of those huge industrial cans of the good stuff.
-
- Shiitake mushrooms are pricier than regular mushrooms, but they are worth it! You can get dried mushrooms from an Asian grocer if you have one near buy to save money. But just don't get white cap mushrooms. Cremini (baby bella) will work as a substitute just fine if you can get the good stuff.
-
- You can make this dish with beef or pork, but I really prefer tofu since it is much healthier and really soaks up the sauce. Serious Eats has a [more thorough guide](https://www.seriouseats.com/2014/02/vegan-experience-crispy-tofu-worth-eating-recipe.html) on how to properly cook tofu without making it mealy and crumble.
-
- I've learned in East Asian cooking that cooking everything separately and then adding them together at the end really makes for interesting levels of flavor when eating. Before I would just throw everything in a wok and dump soy sauce on top and it would never be as good as the real thing. When you bite into the dish, you will taste the soy drenched noodles and tofu, and then get notes of the fresh spinach, the sweet carrot, the caramelized onions, and then the umami mushrooms. It will be a symphony of flavors playing in harmony inside your mouth.
-
- You can get minced garlic and a tube of ginger purée, but the fresh stuff is really gonna pop in that sauce. Don't be lazy, say yes to flavor.
-
- GET GOOD SOY SAUCE. Kikkoman is a common brand that will do you right, but check your international aisle for the good stuff. Mass production soy sauce tends to be thin and too salty. Get some good, malty, ferment-y thick sauce that will elevate your dish.
-
- You can eat your kimchi on the side but I like my kimchi hot so I put it in with the bowl before microwaving. Though a warning, kimchi has an odor that Westerners are not used to so be aware of your surroundings if you work in a small office. Or just bask your co-workers in all of kimchi's smelly glory. As a garlic, anchovy, caper, and, pecorino loving Italian: the stinkier the food, the better.
 ---
+Authentic Japchae calls for glass noodles that are made from sweet potato starch are ideal but, unless you have an Asian grocer, they are not going to be in your international aisle. If you cant find rice noodles, plain rice works too.
+
+Use a high-smoke point oil for this dish like grape-seed or canola oil. You could use the sesame oil, but it's pretty expensive at my grocery and I mainly use it as a flavoring oil unless you have an Asian grocer that have one of those huge industrial cans of the good stuff.
+
+Shiitake mushrooms are pricier than regular mushrooms, but they are worth it! You can get dried mushrooms from an Asian grocer if you have one near buy to save money. But just don't get white cap mushrooms. Cremini (baby bella) will work as a substitute just fine if you can get the good stuff.
+
+You can make this dish with beef or pork, but I really prefer tofu since it is much healthier and really soaks up the sauce. Serious Eats has a [more thorough guide](https://www.seriouseats.com/2014/02/vegan-experience-crispy-tofu-worth-eating-recipe.html) on how to properly cook tofu without making it mealy and crumble.
+
+I've learned in East Asian cooking that cooking everything separately and then adding them together at the end really makes for interesting levels of flavor when eating. Before I would just throw everything in a wok and dump soy sauce on top and it would never be as good as the real thing. When you bite into the dish, you will taste the soy drenched noodles and tofu, and then get notes of the fresh spinach, the sweet carrot, the caramelized onions, and then the umami mushrooms. It will be a symphony of flavors playing in harmony inside your mouth.
+
+You can get minced garlic and a tube of ginger purée, but the fresh stuff is really gonna pop in that sauce. Don't be lazy, say yes to flavor.
+
+GET GOOD SOY SAUCE. Kikkoman is a common brand that will do you right, but check your international aisle for the good stuff. Mass production soy sauce tends to be thin and too salty. Get some good, malty, ferment-y thick sauce that will elevate your dish.
+
+You can eat your kimchi on the side but I like my kimchi hot so I put it in with the bowl before microwaving. Though a warning, kimchi has an odor that Westerners are not used to so be aware of your surroundings if you work in a small office. Or just bask your co-workers in all of kimchi's smelly glory. As a garlic, anchovy, caper, and, pecorino loving Italian: the stinkier the food, the better.
