@@ -3,7 +3,14 @@ layout: default
 ---
 <main id="home">
     <section id="banner">
-      <h1>Blog Title</h1>
+      <div class="title-block">
+        <h1 class="title-text">{{ site.title }}</h1>
+        <img src="/img/bowled-over-logo.svg" class="title-logo" alt="">
+
+      </div>
+      <div class="title-desc">
+        {{ site.description }}
+      </div>
     </section>
     <section id="search">
       <div class="inner-section">
@@ -13,12 +20,12 @@ layout: default
         </form>
       </div>
     </section>
-    <section id="posts">
+    <section id="recipes">
       <div class="pure-g">
         {% for recipe in site.recipes %}
         <div class="pure-u-1 pure-u-md-1-3 post-col">
           <a class="post-link" href="{{ recipe.url }}">
-            
+
           </a>
         </div>
         {% endfor %}

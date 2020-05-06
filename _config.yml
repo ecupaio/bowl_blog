@@ -31,6 +31,9 @@ defaults:
   values:
     permalink: /:title/
     layout: recipe
+
 collections:
   recipes:
+    output: true
+  pages:
     output: true

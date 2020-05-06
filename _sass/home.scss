@@ -1,3 +1,14 @@
 #home {
+  #banner {
+    .title-block {
+      @include flexbox;
+      align-items: center;
+      .title-logo {
+        height: 40px;
+        width: auto;
+        @include transform(rotate(45deg));
+      }
+    }
+  }
   
 }
