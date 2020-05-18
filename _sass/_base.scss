@@ -13,6 +13,23 @@ body {
 //Default Fonts
 h1, h2, h3, h4, h5 {
 	font-family: $header-font;
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+h5 {
+	font-size: 18px;
+}
+h4 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 32px;
+}
+h2 {
+	font-size: 40px;
+}
+h1 {
+	font-size: 48px;
 }
 body {
 	font-family: $body-font;
@@ -28,6 +45,9 @@ a {
 	&:hover, &:active, &:focus {
 		color: darken($primary_color,15%);
 	}
+}
+img {
+	max-width: 100%;
 }
 
 section {

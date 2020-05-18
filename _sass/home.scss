@@ -10,5 +10,31 @@
       }
     }
   }
-  
+  #recipes {
+    .recipe-grid {
+      .recipe-col {
+        .recipe-link {
+          display: inline-block;
+          position: relative;
+          .recipe-image {
+            img {
+              width: 325px;
+            }
+          }
+          .recipe-title {
+            position: absolute;
+            bottom: 0.5rem;
+            right: 0.5rem;
+            background-color: $primary_color;
+            color: $secondary_color;
+            padding: 0.25rem 0.5rem;
+            .title-text {
+              margin-bottom: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+
 }
