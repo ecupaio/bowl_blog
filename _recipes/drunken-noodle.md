@@ -1,5 +1,6 @@
 ---
-title: Drunken Noodle with tofu
+title: Drunken Noodle
+desc: The Thai closing time classic with tofu and mushrooms instead of meat
 vegetarian: true
 vegan: true
 ingredients:

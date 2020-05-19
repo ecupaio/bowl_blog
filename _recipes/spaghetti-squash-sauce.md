@@ -1,5 +1,6 @@
 ---
-title: Spaghetti Squash and Sauce with Peas
+title: Spaghetti Squash with Sauce
+desc: Simple Italian fare without the carbs
 vegan: true
 vegetarian: true
 ingredients:

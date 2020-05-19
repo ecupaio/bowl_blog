@@ -2,14 +2,13 @@
 layout: null
 ---
 [
-  {% for post in site.recipes %}
+  {% for recipe in site.recipes %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "ingredients" : "{{ post.ingredients }}",
-      "instructions": "{{ post.content }}",
-      "notes": "{{ post.notes }}",
-      "url"      : "{{ post.url }}",
-      "date"     : "{{ post.date }}"
+      "title"    : "{{ recipe.title | escape }}",
+      "description": "{{ recipe.desc | join: ',' }}",
+      "ingredients" : "{% for ingredient in recipe.ingredients %}{{ ingredient }}{% unless forloop.last %},{% endunless %}{% endfor %}",
+      "instructions": "{{ recipe.content | strip_html | strip_newlines  }}",
+      "url"      : "{{ recipe.url }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

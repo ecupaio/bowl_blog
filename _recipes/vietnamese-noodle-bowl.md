@@ -1,5 +1,6 @@
 ---
 title: Vietnamese Noodle Bowl
+desc: A refreshing cross between salad and stir fry
 vegetarian: true
 vegan: true
 image: /img/viet-noodle-bowl.jpg

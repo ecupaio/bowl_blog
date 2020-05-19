@@ -1,5 +1,6 @@
 ---
-title: Miso soup with Udon and Tofu
+title: Miso Udon Soup
+desc: An elegant, yet hearty soup with spinach, mushrooms, and tofu.
 vegetarian: true
 vegan: false
 ingredients:

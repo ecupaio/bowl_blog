@@ -1,5 +1,6 @@
 ---
 title: Kimchi Ramen
+desc: Spicy, umami soup that goes above and beyond what you had in the dorm
 vegan: false
 vegetarian: false
 ingredients:
@@ -33,7 +34,7 @@ bowl:
 ---
 This is based on my favorite ramen from my favorite ramen shop in DC: [Toki Underground](https://www.tokiunderground.com/). Though they use a rich and creamy tonkotsu broth that's far and beyond the beef powder, I use the same kimchi from [Number 1 Sons](https://number1sons.com/). Store bought is not fine here, Ina Garten. Get good ingredients for your crappy ramen to elevate a poor man's meal into a refined cheap man's meal.
 
-When I make this at home, I pour the boiling ramen into a bowl and crack an egg over the top to let it cook. I quickly spoon some broth over the egg to cook the top, then I will mix the yolk in once the soup has cooled down to eat so that the yolk doesn't curdle and creates a richer broth. Though if you are microwaving this ramen, it wont be hot enough to cook the egg so avoid the salmonella. You can poach an egg with the microwave, but it can explode too so just stick to basics if you're making this at the office. 
+When I make this at home, I pour the boiling ramen into a bowl and crack an egg over the top to let it cook. I quickly spoon some broth over the egg to cook the top, then I will mix the yolk in once the soup has cooled down to eat so that the yolk doesn't curdle and creates a richer broth. Though if you are microwaving this ramen, it wont be hot enough to cook the egg so avoid the salmonella. You can poach an egg with the microwave, but it can explode too so just stick to basics if you're making this at the office.
 
 Dehydrated mushrooms are going to be at your local Asian grocery, but regular mushrooms work here too albeit for a higher cost and less shelf-life. You can leave them out entirely, though they add a nice umami flavor and texture in place of meat, like chashu pork.
 

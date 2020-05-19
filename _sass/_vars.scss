@@ -2,8 +2,13 @@
 $charcoal: #333;
 $white: #fff;
 $black: #000;
-$blue: #3e73cb;
-$green:#00a566;
+$blue: #3B739B;
+$red: #E75025;
+$yellow: #FEC84D;
+//$green: #00a566;
+$green: #007a4b;
+$teal: #00B1B0;
+$offwhite: #F6F5E8;
 //Theme colors
 $text_color: $black;
 $primary_color: $green;
@@ -21,6 +26,8 @@ $body-padding-mobile: 1em;
 $footer-padding: 3em 1em;
 $transition_duration: .3s;
 $default-shadow: 0px 2px 10px rgba(0, 0, 0, 0.20);
+//border
+$border-radius: 4px;
 //Mixins
 @include gridGutters($grid-gutters);
 @include headerPadding($header-padding);

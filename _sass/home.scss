@@ -1,40 +1,143 @@
 #home {
   #banner {
+    text-align: center;
+    padding-top: 3rem;
     .title-block {
       @include flexbox;
       align-items: center;
+      justify-content: center;
+      @include bp-small {
+        flex-flow: column-reverse;
+
+      }
       .title-logo {
         height: 40px;
         width: auto;
         @include transform(rotate(45deg));
+        @include bp-small {
+          margin-bottom: 1rem;
+        }
       }
     }
   }
   #recipes {
+    @include bp-small {
+      padding: 2rem 1rem;
+    }
     .recipe-grid {
       .recipe-col {
+        padding: 1rem;
         .recipe-link {
-          display: inline-block;
+          display: block;
+          height: 100%;
+          padding: 2rem;
+          font-weight: 400;
           position: relative;
-          .recipe-image {
-            img {
-              width: 325px;
+          padding-bottom: 2.5rem;
+          border-radius: $border-radius;
+          background-color: $offwhite;
+          color: $black;
+          &:hover {
+            .recipe-title {
+              &:after {
+                width: 100%;
+              }
             }
           }
           .recipe-title {
+            border-bottom: 2px solid $black;
+            position: relative;
+            &:after {
+              content: '';
+              height: 2px;
+              width: 0;
+              position: absolute;
+              left: 0;
+              bottom: -2px;
+              background-color: $green;
+              z-index: 2;
+              @include transition(width);
+            }
+            .title-text {
+              margin-bottom: 0.5rem;
+            }
+          }
+          .recipe-desc {
+            padding-top: 0.5rem;
+          }
+          .recipe-tags {
             position: absolute;
             bottom: 0.5rem;
             right: 0.5rem;
-            background-color: $primary_color;
-            color: $secondary_color;
-            padding: 0.25rem 0.5rem;
-            .title-text {
-              margin-bottom: 0;
-            }
+            color: $green;
           }
         }
       }
     }
   }
 
+  #search {
+    padding-top: 0;
+    #search-form {
+      position: relative;
+      max-width: 300px;
+      margin: auto;
+      #search-input {
+        background-color: $offwhite;
+        border-radius: $border-radius;
+        padding: 0.25rem;
+        padding-right: 2rem;
+        width: 100%;
+      }
+      button {
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100%;
+        border-radius: $border-radius;
+        background-color: $green;
+        color: $white;
+        border: none;
+      }
+      #search-results-list {
+        position: absolute;
+        z-index: 5;
+        width: 100%;
+        background-color: $white;
+        li {
+          list-style: none;
+          margin: 0.5rem;
+        }
+
+      }
+    }
+  }
+  .filters {
+    margin-top: 1rem;
+    text-align: center;
+    .filter-btn {
+      display: inline-block;
+      margin-right: 0.5rem;
+      position: relative;
+
+      &:last-child {
+        margin-right: 0;
+      }
+      .close-filter {
+        display: inline-block;
+        font-size: 12px;
+        margin-right: 0.5rem;
+        vertical-align: middle;
+        position: relative;
+        background-color: $white;
+        height: 1em;
+        width: 1em;
+        border-radius: 50%;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        color: $green;
+      }
+    }
+  }
 }

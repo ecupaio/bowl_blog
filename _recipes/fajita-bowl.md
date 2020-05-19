@@ -1,5 +1,6 @@
 ---
-title: Burrito Bowl
+title: Fajita Bowl
+desc: A Tex-Mex bowl with a veggie focus
 ingredients:
 - 2 large onions
 - 4 bell peppers

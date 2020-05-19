@@ -1,5 +1,6 @@
 ---
-title: Roast vegetable pasta primavera
+title: Pasta Primavera
+desc: Your momma's pasta prima but with protein pasta and roasted vegetables
 vegetarian: true
 vegan: false
 ingredients:
@@ -18,7 +19,7 @@ components:
 - title: Roast vegetables
   steps:
   - Peel and cube your eggplant
-  - Cube zucchinis 
+  - Cube zucchinis
   - Slice cherry/grape tomatoes in half
   - Cut peppers in half then into strips
   - Dice onion

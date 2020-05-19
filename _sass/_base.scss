@@ -14,7 +14,7 @@ body {
 h1, h2, h3, h4, h5 {
 	font-family: $header-font;
 	margin-top: 0;
-	margin-bottom: 1rem;
+	margin-bottom: 0.5rem;
 }
 h5 {
 	font-size: 18px;
@@ -38,7 +38,7 @@ body {
 }
 //Links
 a {
-	font-weight: bold;
+
 	text-decoration: none;
 	color: $primary_color;
 	@include transition(color);
@@ -46,6 +46,28 @@ a {
 		color: darken($primary_color,15%);
 	}
 }
+.btn {
+	background-color: $green;
+	color: $white;
+	@include transition(background-color);
+	padding: 0.25rem 0.5rem;
+	border-radius: $border-radius;
+	border: 1px solid $green;
+	&:hover {
+		background-color: lighten($green,10%);
+		cursor: pointer;
+	}
+	&:active,&:focus {
+		outline: none;
+		background-color: darken($green,10%);
+	}
+	&.reversed {
+		background-color: $white;
+		color: $green;
+
+	}
+}
+
 img {
 	max-width: 100%;
 }
@@ -56,6 +78,7 @@ section {
 		max-width: $size-large;
 		margin: auto;
 	}
+
 }
 //Form Inputs
 input,textarea {
@@ -63,12 +86,19 @@ input,textarea {
 		-webkit-appearance: none;
 		-moz-appearance: none;
 		border: 0;
+
 	}
 	&:active, &:focus {
 		outline: 0;
+		background-color: inherit;
 	}
 
 	&.submit {
 		white-space: normal;
 	}
+}
+
+.vegan-icon {
+	font-size: 16px;
+	font-style: normal;
 }

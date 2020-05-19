@@ -1,9 +1,8 @@
 ---
-title: Chana Masala and Kale Saag Aloo
-image:
-description: An Indian(ish) bowl that's incredibly filling and bursting with flavor.
+title: Chana Masala and Saag Aloo
+desc: Chickpeas in a spicy tomato sauce with a creamed spinach made with kale and sweet potatoes
 vegetarian: true
-vegan: false
+vegan: false 
 ingredients:
 - 3 cups of Basmati rice
 - 1 large bag of Kale

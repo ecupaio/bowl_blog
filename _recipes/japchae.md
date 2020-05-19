@@ -1,5 +1,6 @@
 ---
-title: Japchae (Korean noodle stir-fry with tofu)
+title: Japchae
+desc:  A Korean noodle stir-fry side-dish turned main with tofu.
 vegetarian: true
 vegan: true
 ingredients:
@@ -13,9 +14,9 @@ ingredients:
 - 1 large onion
 - 1 bundle of green onion
 - 1 bulb of garlic
-- 1 jar of sesame seeds
-- 1 bag brown sugar
-- 1 large pack of kimchi
+- Sesame seeds
+- Brown sugar
+- Kimchi
 - 2 packs of extra firm tofu
 components:
 - title: Sauce

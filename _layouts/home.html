@@ -2,6 +2,7 @@
 layout: default
 ---
 <main id="home">
+
     <section id="banner">
       <div class="title-block">
         <h1 class="title-text">{{ site.title }}</h1>
@@ -13,23 +14,47 @@ layout: default
       </div>
     </section>
     <section id="search">
-      <div class="inner-section">
-        <form class="search-form">
-          <input id="search-input"/>
-          <button type="submit"><i class="fa fa-search"></i></button>
-        </form>
+      <form id="search-form">
+        <input id="search-input" placeholder="Search for recipes" required/>
+        <button type="submit" class="btn"><i class="fa fa-search"></i></button>
+        <div id="search-results-list">
+
+        </div>
+      </form>
+      <div class="filters">
+        <div class="filter-btn btn reversed">
+          All
+        </div>
+        <div class="filter-btn btn reversed">
+          <i class="vegan-icon">Ⓥ</i> Vegan
+        </div>
+        <div class="filter-btn btn reversed">
+          <i class="fas fa-carrot"></i> Vegetarian
+        </div>
       </div>
     </section>
+
     <section id="recipes">
       <div class="pure-g recipe-grid">
         {% for recipe in site.recipes %}
         <div class="pure-u-1 pure-u-md-1-3 recipe-col">
-          <a class="recipe-link" href="{{ recipe.url }}">
-            <div class="recipe-image">
-              <img src="{{ recipe.image }}" alt="">
-            </div>
+          <a class="recipe-link  offwhite " href="{{ recipe.url }}">
             <div class="recipe-title">
-              <h5 class="title-text">{{ recipe.title }}</h5>
+              <h4 class="title-text">{{ recipe.title }}</h4>
+            </div>
+            <div class="recipe-desc">
+              {{ recipe.desc }}
+            </div>
+            <div class="recipe-tags">
+              {% if recipe.vegan == true %}
+              <div class="">
+                <i class="vegan-icon">Ⓥ</i> Vegan
+              </div>
+              {% elsif recipe.vegetarian %}
+              <div class="">
+                <i class="fas fa-carrot"></i> Vegetarian
+              </div>
+              {% endif %}
             </div>
           </a>
         </div>
