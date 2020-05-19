@@ -27,15 +27,12 @@ defaults:
   values:
     layout: default
 - scope:
-    type: 'recipe'
+    type: 'recipes'
   values:
-    permalink: /:title/
     layout: recipe
-
+    permalink: /recipe/:title/
 collections:
   recipes:
     output: true
-    permalink: /:title/
-    layout: 'recipe'
   pages:
     output: true
