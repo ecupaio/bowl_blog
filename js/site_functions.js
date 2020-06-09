@@ -5,4 +5,11 @@ $(function(){
       $(this).attr('src',imgSrc);
     }
   });
+  //navabr search
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('nav-search-input'),
+    resultsContainer: document.getElementById('nav-search-results-list'),
+    json: '/search.json'
+  });
+  
 });

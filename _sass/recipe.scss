@@ -1,3 +1,33 @@
+main {
+  padding-top: 5rem;
+}
 #recipe {
+  section {
+    max-width: $size-large;
+    margin: auto;
+  }
+  ul,ol {
+    padding-inline-start: 2em;
+    li {
+      padding: 0.25rem 0;
+    }
+  }
+  ol {
+    li {
+
+    }
+  }
+  #recipe-heading {
+    position: relative;
+    padding-bottom: 0.5rem;
+
+  }
+  #recipe-body {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  #recipe-notes {
+
+  }
 
 }

@@ -1,0 +1,41 @@
+#site-nav {
+  position: fixed;
+  background-color: $white;
+  //@include transform(translateY(-100%));
+  padding: 2rem 2rem 1rem;
+  width: 100%;
+  z-index: 10;
+  //@include transition(transform);
+  @include box-shadow;
+  .nav-content {
+    @include flexbox;
+    .left-col {
+      .masthead {
+        display: inline-block;
+        @include flexbox;
+        color: $black;
+        align-items: center;
+        svg {
+          height: 1.5rem;
+          width: auto;
+          margin-right: 0.5rem;
+          @include transform(rotate(45deg));
+        }
+        &:hover {
+          color: $green;
+          svg {
+            path {
+              stroke: $green;
+            }
+          }
+        }
+      }
+
+    }
+
+  }
+  &.active {
+    //@include transform(translateY(0%));
+  }
+
+}
